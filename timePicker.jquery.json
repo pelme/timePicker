@@ -12,9 +12,7 @@
     "type": "git",
     "url": "git://github.com/ikirudennis/timePicker.git"
   },
-  "bugs": {
-    "url": "https://github.com/ikirudennis/timePicker/issues"
-  },
+  "bugs": "https://github.com/ikirudennis/timePicker/issues",
   "licenses": [
     {
       "type": "MIT",

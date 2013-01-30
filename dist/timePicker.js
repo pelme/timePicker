@@ -1,7 +1,6 @@
-/*! Timepicker - v0.4.0 - 2013-01-29
+/*! Timepicker - v0.4.0 - 2013-01-30
 * http://labs.perifer.se/timedatepicker/
 * Copyright (c) 2013 Dennis Burke; Licensed MIT, GPL */
-
 (function ($) {
   "use strict";
   var methods = {
